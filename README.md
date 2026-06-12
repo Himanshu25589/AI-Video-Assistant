@@ -1,3 +1,7 @@
+
+
+
+
 # AI-Video-Assistant
 Transcribe any YouTube video or audio file, extract action items, decisions, open questions, and chat with the content using RAG. Supports English, Hindi, and Hinglish.
 
@@ -129,6 +133,8 @@ Structuring the RAG retrieval for meeting-specific Q&A also needed careful chunk
 - [Multi-Agent AI Research System](https://github.com/Himanshu25589/Multi-Agent-Research-System) — 4-agent pipeline that searches the web, reads sources, writes a report, and critiques it automatically.
 
 ---
+
+https://github.com/user-attachments/assets/f46e9dc9-3b72-4b1c-9991-077a87fbd968
 
 **Himanshu Saini — DTU '28**  
 [LinkedIn](https://www.linkedin.com/in/himanshusaini131/) · [GitHub](https://github.com/Himanshu25589)
