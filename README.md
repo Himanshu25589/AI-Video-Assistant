@@ -131,4 +131,4 @@ Structuring the RAG retrieval for meeting-specific Q&A also needed careful chunk
 ---
 
 **Himanshu Saini — DTU '28**  
-[LinkedIn](linkedin.com/in/himanshusaini131) · [GitHub](https://github.com/Himanshu25589)
+[LinkedIn](https://www.linkedin.com/in/himanshusaini131/) · [GitHub](https://github.com/Himanshu25589)
