@@ -65,7 +65,7 @@ AI-Meeting-Assistant/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Meeting-Assistant
+git clone https://github.com/Himanshu25589/AI-Video-Assistant
 cd AI-Meeting-Assistant
 ```
 
